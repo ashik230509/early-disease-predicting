@@ -1,0 +1,4 @@
+Model,CV Mean Acc (%),CV Std (%)
+Logistic Regression,84.32,2.97
+Decision Tree,80.15,3.17
+Random Forest,83.91,4.11
